@@ -1,5 +1,5 @@
 {
-  "name": "ordering-app-vite",
+  "name": "ordering-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
